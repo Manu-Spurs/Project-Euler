@@ -1,2 +1,2 @@
 # Project-Euler
-question 1 is an O(1) 
+solve all 600+ questions
